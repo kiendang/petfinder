@@ -1,0 +1,317 @@
+BreedName,price,popularity
+Abyssinian,1050,7
+American Curl,1400,26
+American Shorthair,900,6
+American Wirehair,1000,41
+Applehead Siamese,1600,
+Balinese,1300,31
+Bengal,1250,
+Birman,850,15
+Bobtail,800,36
+Bombay,500,34
+British Shorthair,1750,5
+Burmese,1250,16
+Burmilla,600,38
+Calico,100,
+Canadian Hairless,1450,8
+Chartreux,1250,27
+Chausie,1500,
+Chinchilla,200,
+Cornish Rex,1000,11
+Cymric,400,
+Devon Rex,800,12
+Dilute Calico,100,
+Dilute Tortoiseshell,100,
+Domestic Long Hair,100,
+Domestic Medium Hair,100,
+Domestic Short Hair,100,
+Egyptian Mau,800,20
+Exotic Shorthair,1750,1
+Extra-Toes Cat (Hemingway Polydactyl),2000,
+Havana,900,35
+Himalayan,800,
+Japanese Bobtail,800,24
+Javanese,1200,
+Korat,600,40
+LaPerm,500,39
+Maine Coon,1600,3
+Manx,500,23
+Munchkin,1500,
+Nebelung,500,
+Norwegian Forest Cat,1000,14
+Ocicat,850,21
+Oriental Long Hair,1150,13
+Oriental Short Hair,1150,13
+Oriental Tabby,1150,13
+Persian,1250,2
+Pixie-Bob,700,
+Ragamuffin,1000,32
+Ragdoll,1000,4
+Russian Blue,700,19
+Scottish Fold,1250,10
+Selkirk Rex,1150,25
+Siamese,500,9
+Siberian,1000,
+Silver,100,
+Singapura,1150,22
+Snowshoe,800,
+Somali,1250,28
+Sphynx (hairless cat),1450,8
+Tabby,100,
+Tiger,900,
+Tonkinese,800,18
+Torbie,100,
+Tortoiseshell,100,
+Turkish Angora,700,29
+Turkish Van,500,37
+Tuxedo,100,
+Mixed Breed,,
+Affenpinscher,1000,147
+Afghan Hound,2250,93
+African Hunting Dog,,
+Airedale Terrier,700,55
+Akbash,600,
+Akita,1000,47
+Alaskan Malamute,1350,59
+American Bulldog,800,
+American Eskimo Dog,700,118
+American Hairless Terrier,400,126
+American Staffordshire Terrier,900,83
+American Water Spaniel,900,167
+Anatolian Shepherd,800,86
+Appenzell Mountain Dog,700,
+Australian Cattle Dog/Blue Heeler,600,56
+Australian Kelpie,600,
+Australian Shepherd,700,17
+Australian Terrier,1250,137
+Basenji,1100,84
+Basset Hound,400,39
+Beagle,650,6
+Bearded Collie,1300,125
+Beauceron,1350,141
+Bedlington Terrier,1900,151
+Belgian Shepherd Dog Sheepdog,1300,120
+Belgian Shepherd Laekenois,650,
+Belgian Shepherd Malinois,700,44
+Belgian Shepherd Tervuren,1350,103
+Bernese Mountain Dog,900,25
+Bichon Frise,850,46
+Black and Tan Coonhound,350,130
+Black Labrador Retriever,1500,1
+Black Mouth Cur,400,
+Black Russian Terrier,2150,116
+Bloodhound,1000,50
+Blue Lacy,700,
+Bluetick Coonhound,550,132
+Boerboel,1750,124
+Bolognese,1350,
+Border Collie,700,38
+Border Terrier,1300,92
+Borzoi,1100,102
+Boston Terrier,750,21
+Bouvier des Flanders,1750,85
+Boxer,900,11
+Boykin Spaniel,900,98
+Briard,1100,127
+Brittany Spaniel,750,26
+Brussels Griffon,900,94
+Bull Terrier,1350,60
+Bullmastiff,1350,51
+Cairn Terrier,850,69
+Canaan Dog,1000,175
+Cane Corso Mastiff,1750,37
+Carolina Dog,900,
+Catahoula Leopard Dog,400,
+Cattle Dog,600,56
+Caucasian Sheepdog (Caucasian Ovtcharka),1750,
+Cavalier King Charles Spaniel,1350,19
+Chesapeake Bay Retriever,800,43
+Chihuahua,700,32
+Chinese Crested Dog,900,79
+Chinese Foo Dog,2000,
+Chinook,900,179
+Chocolate Labrador Retriever,1500,1
+Chow Chow,700,76
+Cirneco dell'Etna,900,184
+Clumber Spaniel,1000,140
+Cockapoo,1000,
+Cocker Spaniel,700,29
+Collie,500,40
+Coonhound,350,130
+Corgi,1100,68
+Coton de Tulear,2700,81
+Curly-Coated Retriever,700,171
+Dachshund,600,13
+Dalmatian,800,63
+Dandi Dinmont Terrier,1500,182
+Dhole,,
+Dingo,,
+Doberman Pinscher,900,16
+Dogo Argentino,39000,
+Dogue de Bordeaux,1150,67
+Dutch Shepherd,1100,
+English Bulldog,1600,5
+English Cocker Spaniel,1050,52
+English Coonhound,1100,178
+English Pointer,450,113
+English Setter,500,95
+English Shepherd,900,
+English Springer Spaniel,750,27
+English Toy Spaniel,1400,134
+Entlebucher,,152
+Eskimo Dog,700,118
+Feist,350,
+Field Spaniel,900,145
+Fila Brasileiro,1150,
+Finnish Lapphund,700,173
+Finnish Spitz,600,177
+Flat-coated Retriever,1100,96
+Fox Terrier,850,122
+Foxhound,500,187
+French Bulldog,3000,4
+Galgo Spanish Greyhound,700,
+German Pinscher,1500,136
+German Shepherd Dog,1400,2
+German Shorthaired Pointer,700,10
+German Spitz,700,118
+German Wirehaired Pointer,800,62
+Giant Schnauzer,1250,80
+Glen of Imaal Terrier,900,158
+Golden Retriever,1500,3
+Gordon Setter,900,104
+Great Dane,1000,14
+Great Pyrenees,800,66
+Greater Swiss Mountain Dog,2250,75
+Greyhound,650,156
+Harrier,350,183
+Havanese,1050,23
+Hound,500,187
+Hovawart,1100,
+Husky,950,12
+Ibizan Hound,1000,165
+Illyrian Sheepdog,1500,
+Irish Setter,900,72
+Irish Terrier,700,114
+Irish Water Spaniel,900,164
+Irish Wolfhound,1900,73
+Italian Greyhound,900,74
+Italian Spinone,1750,111
+Jack Russell Terrier,850,78
+Jack Russell Terrier (Parson Russell Terrier),500,119
+Japanese Chin,400,108
+Jindo,350,
+Kai Dog,3000,
+Karelian Bear Dog,1100,
+Keeshond,900,87
+Kerry Blue Terrier,550,129
+Kishu,400,
+Klee Kai,1250,
+Komondor,1000,163
+Kuvasz,1350,157
+Kyi Leo,700,
+Labrador Retriever,1500,1
+Lakeland Terrier,1500,138
+Lancashire Heeler,700,
+Leonberger,1750,100
+Lhasa Apso,600,77
+Lowchen,400,169
+Maltese,700,33
+Manchester Terrier,800,135
+Maremma Sheepdog,700,
+Mastiff,1350,28
+McNab,400,
+Miniature Pinscher,500,71
+Mountain Cur,400,
+Mountain Dog,900,25
+Munsterlander,1500,
+Neapolitan Mastiff,1750,107
+New Guinea Singing Dog,3000,
+Newfoundland Dog,1750,36
+Norfolk Terrier,2250,128
+Norwegian Buhund,900,170
+Norwegian Elkhound,600,91
+Norwegian Lundehund,500,190
+Norwich Terrier,1700,105
+Nova Scotia Duck-Tolling Retriever,1900,89
+Old English Sheepdog,1350,70
+Otterhound,550,186
+Papillon,500,53
+Patterdale Terrier (Fell Terrier),600,
+Pekingese,700,88
+Peruvian Inca Orchid,500,
+Petit Basset Griffon Vendeen,1400,160
+Pharaoh Hound,1900,174
+Pit Bull Terrier,600,
+Plott Hound,400,166
+Podengo Portugueso,900,159
+Pointer,450,113
+Polish Lowland Sheepdog,1750,176
+Pomeranian,700,22
+Poodle,1250,7
+Standard Poodle,1250,7
+Miniature Poodle,1250,
+Toy Poodle,1250,
+Portuguese Water Dog,2650,54
+Presa Canario,2100,
+Pug,400,31
+Puli,1100,142
+Pumi,2750,162
+Rat Terrier,400,97
+Redbone Coonhound,700,139
+Retriever,1500,3
+Rhodesian Ridgeback,1150,41
+Rottweiler,1600,8
+Saint Bernard,1650,48
+Saluki,700,123
+Samoyed,1350,57
+Sarplaninac,900,
+Schipperke,800,110
+Miniature Schnauzer,800,18
+Schnauzer,1350,90
+Giant Schnauzer,1250,80
+Scottish Deerhound,1100,168
+Scottish Terrier Scottie,900,58
+Sealyham Terrier,900,150
+Setter,500,95
+Shar Pei,1100,64
+Sheep Dog,1350,70
+Shepherd,1400,2
+Shetland Sheepdog Sheltie,900,24
+Shiba Inu,900,45
+Shih Tzu,1000,20
+Siberian Husky,950,12
+Silky Terrier,700,106
+Skye Terrier,800,172
+Sloughi,900,188
+Smooth Fox Terrier,850,122
+South Russian Ovtcharka,900,
+Spaniel,700,29
+Spitz,700,118
+Staffordshire Bull Terrier,1750,82
+Sussex Spaniel,2500,161
+Swedish Vallhund,800,149
+Terrier,1050,42
+Thai Ridgeback,700,
+Tibetan Mastiff,3000,153
+Tibetan Spaniel,900,121
+Tibetan Terrier,1600,101
+Tosa Inu,700,
+Toy Fox Terrier,500,112
+Treeing Walker Coonhound,500,131
+Vizsla,1000,30
+Weimaraner,1750,34
+Welsh Corgi,1100,68
+Cardigan,1100,68
+Pembroke,1100,68
+Welsh Springer Spaniel,1300,133
+Welsh Terrier,1000,109
+West Highland White Terrier Westie,1050,42
+Wheaten Terrier,900,49
+Whippet,1000,61
+White German Shepherd,1400,2
+Wire Fox Terrier,900,99
+Wire-haired Pointing Griffon,700,65
+Wirehaired Terrier,900,99
+Xoloitzcuintle/Mexican Hairless,700,143
+Yellow Labrador Retriever,1500,1
+Yorkshire Terrier Yorkie,800,9

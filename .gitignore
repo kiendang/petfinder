@@ -1,4 +1,6 @@
-data/
 .python-version
 .ipynb_checkpoints
 __pycache__
+
+data/*
+!data/external/
